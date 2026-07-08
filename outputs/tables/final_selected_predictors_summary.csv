@@ -1,0 +1,11 @@
+Feature,Selected_by_LR,Selected_by_RF,Selected_by_MLP_Consensus,Selected_by_CatBoost,Selection_Count
+LOWEST HB,Yes,Yes,Yes,Yes,4
+ANTIDSDNA12M_POSITIVE1,Yes,No,Yes,Yes,3
+"C3_12M_LOW1, NORMAL0",Yes,No,Yes,Yes,3
+"12M_ C4 LOW1,NORMAL0",Yes,No,No,No,1
+DISEASE DURATION,Yes,No,No,No,1
+HCQ,Yes,No,No,No,1
+HIGHEST CRP_MISSING,Yes,No,No,No,1
+INFECTION YES1,Yes,No,No,No,1
+LOWEST_PRED_BIN,Yes,No,No,No,1
+RENAL1 NON-RENAL0,Yes,No,No,No,1

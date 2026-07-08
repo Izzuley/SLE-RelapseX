@@ -1,0 +1,2 @@
+Feature,SHAP_Threshold,EBM_Threshold,Agreement,Interpretation,Sensitivity_Only_Note
+REMISSION INTERVAL,19.0,16.0,Partially agree,SHAP threshold approximately 19.0; EBM threshold approximately 16.0. SHAP: Shorter remission interval associated with higher predicted relapse risk. EBM: Shorter remission interval associated with higher predicted relapse risk.,Secondary sensitivity analysis only; REMISSION INTERVAL was excluded from the primary predictive model due to possible outcome-timing leakage.

@@ -1,0 +1,6 @@
+Feature,EBM_Threshold,SHAP_Dependence_Threshold,Agreement,Interpretation
+LOWEST HB,11.950182555496072,11.75,Agree,SHAP threshold approximately 11.75; EBM threshold approximately 11.95. Risk direction matches; relative threshold difference is 1.7%.
+ANTIDSDNA12M_POSITIVE1_1.0,0.5,0.5,Agree,Both methods assign the same risk direction to this categorical level (the 0.5 threshold denotes dummy absence/presence).
+ANTIDSDNA12M_POSITIVE1_2.0,0.5,0.5,Agree,Both methods assign the same risk direction to this categorical level (the 0.5 threshold denotes dummy absence/presence).
+"C3_12M_LOW1, NORMAL0_1.0",0.5,0.5,Agree,Both methods assign the same risk direction to this categorical level (the 0.5 threshold denotes dummy absence/presence).
+"C3_12M_LOW1, NORMAL0_2.0",0.5,0.5,Agree,Both methods assign the same risk direction to this categorical level (the 0.5 threshold denotes dummy absence/presence).

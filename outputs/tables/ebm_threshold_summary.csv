@@ -1,0 +1,6 @@
+Feature,EBM_Threshold,Threshold_Direction,EBM_Interpretation,Confidence_Level
+LOWEST HB,11.950182555496072,Below threshold associated with higher predicted relapse risk,The largest interpretable EBM risk transition occurs near 12; below threshold associated with higher predicted relapse risk.,Clear
+ANTIDSDNA12M_POSITIVE1_1.0,0.5,Above threshold associated with higher predicted relapse risk,The largest interpretable EBM risk transition occurs near 0.5; above threshold associated with higher predicted relapse risk.,Clear
+ANTIDSDNA12M_POSITIVE1_2.0,0.5,Above threshold associated with higher predicted relapse risk,The largest interpretable EBM risk transition occurs near 0.5; above threshold associated with higher predicted relapse risk.,Clear
+"C3_12M_LOW1, NORMAL0_1.0",0.5,Above threshold associated with higher predicted relapse risk,The largest interpretable EBM risk transition occurs near 0.5; above threshold associated with higher predicted relapse risk.,Clear
+"C3_12M_LOW1, NORMAL0_2.0",0.5,Below threshold associated with higher predicted relapse risk,The largest interpretable EBM risk transition occurs near 0.5; below threshold associated with higher predicted relapse risk.,Clear

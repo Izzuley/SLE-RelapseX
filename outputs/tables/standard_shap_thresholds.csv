@@ -1,0 +1,6 @@
+Feature,Source_Feature,SHAP_Dependence_Threshold,SHAP_Transition_Lower,SHAP_Transition_Upper,SHAP_Threshold_Direction,SHAP_Threshold_Method,SHAP_Threshold_Confidence,SHAP_Category_Effect
+LOWEST HB,LOWEST HB,11.75,11.499999999999998,12.000000000000002,Below threshold associated with higher predicted relapse risk,Raw observed sign-change midpoint,Moderate,
+ANTIDSDNA12M_POSITIVE1_1.0,ANTIDSDNA12M_POSITIVE1,0.5,,,Above threshold associated with higher predicted relapse risk,Category 1.0 mean SHAP effect vs other categories,Moderate,1.3982778501303286
+ANTIDSDNA12M_POSITIVE1_2.0,ANTIDSDNA12M_POSITIVE1,0.5,,,Above threshold associated with higher predicted relapse risk,Category 2.0 mean SHAP effect vs other categories,Moderate,0.9378013393606112
+"C3_12M_LOW1, NORMAL0_1.0","C3_12M_LOW1, NORMAL0",0.5,,,Above threshold associated with higher predicted relapse risk,Category 1.0 mean SHAP effect vs other categories,Moderate,1.0431540818912242
+"C3_12M_LOW1, NORMAL0_2.0","C3_12M_LOW1, NORMAL0",0.5,,,Below threshold associated with higher predicted relapse risk,Category 2.0 mean SHAP effect vs other categories,Moderate,-1.2701649333591778

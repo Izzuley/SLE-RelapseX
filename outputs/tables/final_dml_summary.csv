@@ -1,0 +1,6 @@
+Feature,Estimated_Effect,CI_Lower,CI_Upper,P_Value,Direction,Interpretation,Signal_Category
+LOWEST HB,-0.054828113792426,-0.1219913072457696,0.0123350796609174,0.1095985211434966,No clear adjusted signal,No clear adjusted signal,No clear adjusted signal
+ANTIDSDNA12M_POSITIVE1_1.0,0.4262576748098818,0.1751033579108309,0.6774119917089327,0.000879630494613,Positive adjusted signal with relapse,Positive adjusted signal with relapse,Positive adjusted signal
+ANTIDSDNA12M_POSITIVE1_2.0,0.0268772449326061,-0.6490708951165269,0.7028253849817392,0.9378816247849552,No clear adjusted signal,No clear adjusted signal,No clear adjusted signal
+"C3_12M_LOW1, NORMAL0_1.0",0.0627082935449098,-0.1827325535814697,0.3081491406712895,0.6165427978655138,No clear adjusted signal,No clear adjusted signal,No clear adjusted signal
+"C3_12M_LOW1, NORMAL0_2.0",-0.2378877946422251,-0.4352741824191025,-0.0405014068653478,0.0181704674569427,Negative/protective adjusted signal with relapse,Negative adjusted signal with relapse,Negative/protective adjusted signal

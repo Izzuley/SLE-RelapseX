@@ -1,0 +1,34 @@
+﻿# Patient-level and source data
+Dataset/
+
+# Model/runtime artifacts
+catboost_info/
+**/catboost_info/
+execution_logs/
+**/execution_logs/
+*.pkl
+*.joblib
+
+# Temporary document/render artifacts
+deliverables/*.tmp.docx
+deliverables/SLE-RelapseX_Competition_Abstract.docx
+deliverables/rendered_abstract/
+
+# Python/Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+
+# Editor/OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
